@@ -1,0 +1,14 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:amethyst_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"copperagebackport:waxed_weathered_copper_button"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cherry_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bosses_of_mass_destruction:void_thorn"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bosses_of_mass_destruction:charged_ender_pearl"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bosses_of_mass_destruction:earthdive_spear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alexscaves:volcanic_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bamboo_mosaic_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bamboo_fence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cherry_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,13 @@
+# You can change how many of them are displayed
+maxPlayersInLore: 3
+
+# Nobody can make a copy of a map (except authors if 'authorsCanCopy' is 'true')
+disableCopy: true
+authorsCanCopy: true
+
+# Main author can transfer a canvas to the public domain (all players can copy the canvas).
+# Doesn't work if `disableCopy` is `false`
+publicDomainFeature: true
+
+# Allows to clean a map with a bucket of water in a cartography table
+cleanMap: false

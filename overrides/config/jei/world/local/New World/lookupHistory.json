@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"explorerscompass:explorerscompass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cracked_stone_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"takesapillage:archer_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:open_eyeblossom"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bosses_of_mass_destruction:blazing_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:corrupted_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:ender_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:wither_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:jungle_fence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:old_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:nether_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:guardian_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:cryptic_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:exotic_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:undead_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"endrem:witch_eye"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

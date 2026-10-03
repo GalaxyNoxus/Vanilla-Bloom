@@ -1,0 +1,112 @@
+[general]
+applicationID = "1526122255262945330"
+enabled = true
+debugging = false
+launcherIntegration = false
+rpcImageServer = false
+rpcImageServerUrl = "https://rpcavatar.firstdark.dev"
+version = 26
+
+[init]
+enabled = true
+[[init.presence]]
+type = "PLAYING"
+description = "Loading the game..."
+state = ""
+largeImageKey = ["vanilla_bloom"]
+largeImageText = "Vanilla Bloom"
+smallImageKey = [""]
+smallImageText = ""
+buttons = [
+    { label = "Download Modpack", url = "https://modrinth.com/modpack/vanillabloom" }
+]
+
+[main_menu]
+enabled = true
+[[main_menu.presence]]
+type = "PLAYING"
+description = "Browsing the menu"
+state = ""
+largeImageKey = ["vanilla_bloom"]
+largeImageText = "Vanilla Bloom"
+smallImageKey = ["{{images.player}}"]
+smallImageText = "{{player.name}}"
+buttons = [
+    { label = "Download Modpack", url = "https://modrinth.com/modpack/vanillabloom" }
+]
+
+[server_list]
+enabled = true
+[[server_list.presence]]
+type = "PLAYING"
+description = "Browsing the menu"
+state = ""
+largeImageKey = ["vanilla_bloom"]
+largeImageText = "Vanilla Bloom"
+smallImageKey = ["{{images.player}}"]
+smallImageText = "{{player.name}}"
+buttons = [
+    { label = "Download Modpack", url = "https://modrinth.com/modpack/vanillabloom" }
+]
+
+[join_game]
+enabled = true
+[[join_game.presence]]
+type = "PLAYING"
+description = "Joining Game..."
+state = ""
+largeImageKey = ["vanilla_bloom"]
+largeImageText = "Vanilla Bloom"
+smallImageKey = ["{{images.player}}"]
+smallImageText = "{{player.name}}"
+buttons = [
+    { label = "Download Modpack", url = "https://modrinth.com/modpack/vanillabloom" }
+]
+
+[single_player]
+enabled = true
+[[single_player.presence]]
+type = "PLAYING"
+description = "Playing Singleplayer"
+state = ""
+largeImageKey = ["vanilla_bloom"]
+largeImageText = "Vanilla Bloom"
+smallImageKey = ["{{images.player}}"]
+smallImageText = "{{player.name}}"
+buttons = [
+    { label = "Download Modpack", url = "https://modrinth.com/modpack/vanillabloom" }
+]
+
+[multi_player]
+enabled = true
+[[multi_player.presence]]
+type = "PLAYING"
+description = "Playing Multiplayer"
+state = "Players: {{server.players.count}}/{{server.players.max}}"
+largeImageKey = ["vanilla_bloom"]
+largeImageText = "Vanilla Bloom"
+smallImageKey = ["{{images.player}}"]
+smallImageText = "{{player.name}}"
+buttons = [
+    { label = "Download Modpack", url = "https://modrinth.com/modpack/vanillabloom" }
+]
+
+# --- SEÇÕES DESATIVADAS ---
+
+[realms_list]
+enabled = false
+
+[realms]
+enabled = false
+
+[paused]
+enabled = false
+
+[generic]
+enabled = false
+
+[custom]
+enabled = false
+
+[dimension_overrides]
+enabled = false

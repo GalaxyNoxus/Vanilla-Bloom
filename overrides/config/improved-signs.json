@@ -1,0 +1,13 @@
+{
+  "disableSignEditOnPlace": false,
+  "enableSignPassthrough": true,
+  "enableSignRetain": true,
+  "enableSignCopy": true,
+  "serverSideSignTextPreview": true,
+  "retainDyeOnSignCopy": false,
+  "enableFramePassthrough": true,
+  "enableFrameReachExtension": false,
+  "enableFrameBlockSharing": false,
+  "enableInvisibleFrames": true,
+  "invisibleFrameItem": "AMETHYST_SHARD"
+}

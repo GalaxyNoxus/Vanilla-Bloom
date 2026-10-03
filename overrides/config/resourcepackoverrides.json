@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "default_packs": [
+    "file/Vanilla_Bloom_Core_Pack.zip"
+  ],
+  "pack_overrides": {
+    "file/Vanilla_Bloom_Core_Pack.zip": {
+      "title": "\"Vanilla Bloom\"",
+      "required": true,
+      "fixed_position": true,
+      "default_position": "TOP",
+      "hidden": false
+    }
+  }
+}

@@ -1,0 +1,14 @@
+"message":
+  "configValue": "'%s' currently is '%s'"
+  "configValueUpdated": "'%s' updated to '%s'"
+  "notAllowedToModify": "You're not allowed to modify this map"
+  "invalidName": "Player name must be at least 3 characters and have no special symbols"
+  "authorExists": "There is already the author"
+  "authorNotFound": "This author is not found"
+  "authorAdded": "%s successfully added to art authors"
+  "authorRemoved": "%s successfully removed from art authors"
+  "noMapArt": "You should have map in main hand"
+  "addedToPublicDomain": "Transferred to the public domain"
+  "removedFromPublicDomain": "Removed from the public domain (only this stack)"
+"lore":
+  "publicDomain": "Public domain"
