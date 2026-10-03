@@ -12,9 +12,12 @@
 
 ![Gradient Line](https://cdn.modrinth.com/data/cached_images/7da33acb9a8f911e3fd414e500d502477b57836b_0.webp)
 ## About
-Vanilla Bloom is a carefully curated Minecraft modpack designed to expand and refine the vanilla experience while preserving the charm and atmosphere that make Minecraft feel familiar.
 
-The pack places a strong focus on visual quality, introducing enhanced lighting, improved textures, atmospheric effects, smoother animations, and a more immersive overall presentation. Every visual element is selected to create a cohesive and polished experience without losing Minecraft’s recognizable style.
+Vanilla Bloom started as a Vanilla+ modpack, built around the idea of enhancing Minecraft while preserving its familiar atmosphere. Over time, however, the pack has grown far beyond its original scope.
+
+Despite the name, **Vanilla Bloom is no longer a strictly Vanilla+ experience.** The modpack now includes new content, mechanics, structures, progression changes, exploration features, and other additions that significantly expand the game beyond vanilla Minecraft.
+
+The name **Vanilla Bloom** remains because it represents the original philosophy of the project: taking the Minecraft experience and letting it "bloom" into something larger, richer, and more immersive, while still keeping the game recognizable at its core.
 
 ![Birch Forest](https://cdn.modrinth.com/data/cached_images/46f17ee045302ed1c9ba243af7a5e5df9651cc8a.png)
 
