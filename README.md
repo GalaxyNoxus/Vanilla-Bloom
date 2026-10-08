@@ -35,4 +35,13 @@ Vanilla Bloom is ideal for players looking for an enhanced version of Minecraft 
 The modpack comes with Voxy, allowing you to render terrain at extremely long distances. To take full advantage of this feature, the Chunky mod is included to pre-generate chunks before exploring. After creating or loading a world, use `/chunky center` to set your current location as the center of the generation area, then run `/chunky radius (number of chunks)` to define the size of the area and `/chunky start` to begin the process. Wait until generation is complete before exploring to ensure Voxy can render distant terrain correctly.
 
 ![Gradient Line](https://cdn.modrinth.com/data/cached_images/7da33acb9a8f911e3fd414e500d502477b57836b_0.webp)
+
 _I originally made this modpack to play with my friends on a private server, but I decided to share it publicly so anyone can enjoy the experience._
+
+---
+
+Vanilla Bloom is an open-source project! You can explore the files, report bugs, suggest improvements, or contribute to its development on GitHub.
+
+Your feedback and contributions help make Vanilla Bloom even better!
+
+[![GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/available/github_vector.svg)](https://github.com/GalaxyNoxus/Vanilla-Bloom)
