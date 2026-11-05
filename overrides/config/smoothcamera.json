@@ -1,5 +1,6 @@
 {
   "enabled": true,
-  "smoothness": 0.5,
-  "smoothnessf5": 0.015
+  "SmoothTeleport": true,
+  "TPSmoothness": 0.5,
+  "F5Smoothness": 0.015
 }

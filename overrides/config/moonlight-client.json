@@ -11,6 +11,8 @@
     "custom_config_screen": true,
     "show_all_mod_configs": false,
     "convert_foreign_configs": "GENERIC_ONLY",
-    "config_item_carousel": true
+    "config_item_carousel": true,
+    "favourite_mods": [],
+    "mod_list_descending": false
   }
 }

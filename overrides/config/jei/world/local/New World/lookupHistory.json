@@ -1,5 +1,10 @@
 [
   {"version":1},
+  {"ingredient":{"id":"sizeable_foliage:big_bush"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ancient_remnants:monolith_codex"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ancient_remnants:hunter_instincts","show_icon":true,"duration":600},"type":"net.minecraft.class_1293","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ancient_remnants:bountiful_harvest","show_icon":true,"duration":600},"type":"net.minecraft.class_1293","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ancient_remnants:research_scrap","components":"{\"ancient_remnants:stored_research\":[\"ancient_remnants:cherry_monument\"]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"explorerscompass:explorerscompass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:cracked_stone_bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"takesapillage:archer_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},

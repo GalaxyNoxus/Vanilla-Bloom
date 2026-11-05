@@ -8,10 +8,6 @@
     {
       "id": "yourmod:redwood_trapdoor",
       "required": false
-    },
-    {
-      "id": "minecraft:pale_oak_trapdoor",
-      "required": false
     }
   ]
 }

@@ -144,10 +144,6 @@
     {
       "id": "more_slabs_stairs_and_walls:stripped_spruce_wood_slab",
       "required": false
-    },
-    {
-      "id": "minecraft:pale_oak_slab",
-      "required": false
     }
   ]
 }

@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Galaxy_Noxus",
+      "uniqueId": "e4cccfaf-9a82-408b-b746-24082deafc38"
+    },
+    "time": 1793654703615,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VkvrJBGqDl"
+    }
+  }
+]
